@@ -1,0 +1,405 @@
+id,date,place,change,held,state,left,rule_or_override
+r1-UC-BI-FDLR-011,2025,North Kivu areas held by AFC/M23 and RDF (FDLR present),holds,"AFC/M23 and RDF, with the bulk of FDLR forces operating there per the Group of Experts",m23,,rule3
+r1-UC-BI-FDLR-030,2025,RN5 blocking positions north of Uvira,holds,FDNB and FARDC/Wazalendo,kin,,rule3
+r2-G-DOC-858-017,2025,Ruzizi plain,contested,"FARDC, Wazalendo and FDNB (as the Group describes the blocking positions)",contested,,rule1
+r2-G-DOC-858-019,2025,Lumbishi,holds,AFC/M23,m23,,rule3
+r2-G-DOC-858-019,2025,Numbi,holds,AFC/M23,m23,,rule3
+r2-G-DOC-858-019,2025,Nyabibwe,holds,AFC/M23,m23,,rule3
+r1-UC-BI-FDLR-020,2025-01,Minova,captured,AFC/M23 and RDF,m23,,rule3
+r1-GOE-071,2025-01-04,Masisi centre,captured,AFC/M23 and RDF (as the Group of Experts reports),m23,,rule3
+r1-NKW-2025H1-004,2025-01-04,Masisi (chef-lieu),captured,M23,m23,,rule3
+r1-UC-BI-FDLR-019,2025-01-04,Masisi centre,captured,AFC/M23 and RDF,m23,,rule3
+r7-E-NKW-033,2025-01-04,Masisi centre,captured,M23,m23,,rule3
+r1-NKW-2025H1-001,2025-01-08,Masisi-Centre,retaken,"FARDC-Wazalendo coalition, per 7sur7.cd and Masisi civil society",kin,,rule3
+r7-E-NKW-031,2025-01-09,Masisi centre,retaken,M23,m23,,rule3
+r7-E-NKW-032,2025-01-09,Ngungu,holds,FARDC (per FARDC),kin,,rule3
+r2-G-NKN-FRONT-009,2025-01-14,Kayna-Kirumba-Luofu axis,contested,M23 (contested by FARDC/Wazalendo attacks),m23,,override:held
+r1-SKN-2025Q1-001,2025-01-20,Minova,captured,M23,m23,,rule3
+r2-G-DOC-HRC-045,2025-01-23,Sake,contested,M23 and RDF (offensive launched against FARDC),m23,,override:held
+r1-NKS-2025Q1-001,2025-01-26,Goma,entered,M23 and Rwandan soldiers (entered; fighting still audible on Monday 27 January per AFP),m23,,rule3
+r1-GOE-072,2025-01-27,Goma,captured,AFC/M23 and RDF (as the Group of Experts reports),m23,,rule3
+r1-NKS-2025Q1-003,2025-01-27,Goma,contested,DRC army (80%) per Muhindo Nzangi; M23 only some peripheral areas per Nzangi,kin,,override:held
+r1-NKS-2025Q1-029,2025-01-27,Goma,withdrew,FARDC (soldiers fleeing through the Grande Barrière crossing),vacated,kin,override:held
+r7-E-IGIHE-085,2025-01-27,Goma (city),captured,AFC/M23,m23,,rule3
+r2-G-DOC-HRC-046,2025-01-29,Goma,captured,M23 and RDF,m23,,rule3
+r1-GOE-078,2025-02,Uvira,holds,"Wazalendo armed groups (de facto), as the Group of Experts reports",kin,,rule3
+r1-NKN-2025H1-004,2025-02,Kitsumbiro,captured,M23,m23,,rule3
+r1-UV-2025Q2-003,2025-02,Uvira,holds,"Wazalendo armed groups (de facto), per UN Group of Experts",kin,,rule3
+r2-G-DOC-446-047,2025-02,Lumbishi,captured,AFC/M23,m23,,rule3
+r2-G-DOC-446-047,2025-02,Numbi,captured,AFC/M23,m23,,rule3
+r2-G-DOC-446-047,2025-02,Nyabibwe,captured,AFC/M23,m23,,rule3
+r2-G-DOC-HRC-030,2025-02,Uvira,holds,Wazalendo groups (per the FFM),kin,,rule3
+r2-G-DOC-HRC-049,2025-02,Uvira,captured,Wazalendo (per the FFM),kin,,rule3
+r7-E-IGIHE-073,2025-02,Kitsombiro (Lubero),captured,M23,m23,,rule3
+r7-E-IGIHE-171,2025-02,Minembwe,"captured (Minembwe) / entered (Mikenke), per Sematama",Twirwaneho,m23,,rule3
+r1-SKN-2025Q1-008,2025-02-05,Nyabibwe,captured,M23,m23,,rule3
+r1-SKN-2025Q1-008,2025-02-05,Bukavu,captured,M23,m23,,rule3
+r1-SKN-2025Q1-009,2025-02-12,Kalehe,captured,not stated in the excerpt,unknown,,rule3
+r7-E-SKN-039,2025-02-12,Kalehe centre,captured,M23 (per a civil-society leader),m23,,rule3
+r1-SKN-2025Q1-005,2025-02-14,Kavumu airport,captured,M23,m23,,rule3
+r2-G-DOC-HRC-047,2025-02-14,Bukavu,captured,M23,m23,,rule3
+r1-GOE-080,2025-02-15,Minembwe airstrip,captured,Twirwaneho,m23,,rule3
+r1-GOE-074,2025-02-16,Bukavu,captured,AFC/M23 and RDF (as the Group of Experts reports),m23,,rule3
+r1-SKN-2025Q1-007,2025-02-16,Bukavu,entered,M23,m23,,rule3
+r2-G-DOC-446-051,2025-02-16,Bukavu,withdrew,"Government authorities, FDNB and FARDC (withdrew towards Kamanyola, Uvira and Bujumbura)",vacated,kin,rule2
+r7-E-IGIHE-142,2025-02-16,Bukavu,captured,M23,m23,,rule3
+r1-SKN-2025Q1-010,2025-02-18,Kamanyola,entered,M23,m23,,rule3
+r1-SKS-2025Q1-017,2025-02-18,Kamanyola,captured,M23 and Rwandan allies (per Radio Okapi),m23,,rule3
+r7-E-IGIHE-144,2025-02-18,Kamanyola border crossing (DRC side),captured,M23,m23,,rule3
+r1-SKS-2025Q1-019,2025-02-19,Luvungi,entered,M23 and allies of the Rwandan army ('auraient pris'),m23,,rule3
+r1-SKS-2025Q1-019,2025-02-19,Sange,entered,M23 and allies of the Rwandan army ('auraient pris'),m23,,rule3
+r1-UV-2025Q1-006,2025-02-19,Sange,captured,M23 (per Radio Okapi),m23,,rule3
+r7-E-IGIHE-146,2025-02-19,Mumosho,captured,M23,m23,,rule3
+r7-E-IGIHE-146,2025-02-19,Nya-Ngezi,captured,M23,m23,,rule3
+r7-E-IGIHE-198,2025-02-19,Kitsombiro,captured,M23,m23,,rule3
+r7-E-IGIHE-200,2025-02-19,Alimbongo,holds,M23,m23,,rule3
+r7-E-IGIHE-200,2025-02-19,Kanyabayonga,holds,M23,m23,,rule3
+r7-E-IGIHE-200,2025-02-19,Kayna,holds,M23,m23,,rule3
+r7-E-IGIHE-200,2025-02-19,Kirumba,holds,M23,m23,,rule3
+r1-NKN-2025H1-003,2025-02-20,Kipese,captured,M23,m23,,rule3
+r1-NKN-2025H1-003,2025-02-20,Katondi,captured,M23,m23,,rule3
+r1-SKS-2025Q1-002,2025-02-20,Luvungi,entered,M23 (presence reported by residents),m23,,rule3
+r1-SKS-2025Q1-002,2025-02-20,Sange,entered,M23 (presence reported by residents),m23,,rule3
+r1-UV-2025Q1-032,2025-02-21,"Minembwe (Madegu, Runundu, Kiziba, Ilundu, Kakenge positions per the article)",captured,Twirwaneho,m23,,rule3
+r7-E-UV-011,2025-02-21,Uvira,holds,"Wazalendo defending the town, according to Mwananchi",kin,,rule3
+r1-UV-2025Q1-017,2025-02-24,Uvira (seat of South Kivu provincial government in exile),entered,DRC provincial government and FARDC,kin,,rule3
+r4-G-LOCAL-NK-001,2025-02-25,Kanyabayonga,holds,M23,m23,,rule3
+r4-G-LOCAL-NK-001,2025-02-25,Kirumba,holds,M23,m23,,rule3
+r4-G-LOCAL-NK-001,2025-02-25,Kipese,holds,M23,m23,,rule3
+r1-SKS-2025Q1-001,2025-02-26,"Mikenge (Itombwe sector, Mwenga territory)",captured,"Twirwaneho, according to several sources",m23,,rule3
+r1-UC-FARDC-004,2025-03,Walikale-centre,holds,FARDC (per Cocorico.cd),kin,,rule3
+r7-E-IGIHE-078,2025-03,Walikale,withdrew,AFC/M23,vacated,m23,rule2
+r1-SKC-2025H1-004,2025-03-03,Kilungutwe (Mwenga territory),entered,AFC/M23 (entered),m23,,rule3
+r1-SKS-2025Q1-012,2025-03-03,Mikenge,retaken,Twirwaneho (men of Sematama reoccupied the village around 18:00 on 3 March),m23,,rule3
+r2-G-NKN-FRONT-002,2025-03-06,Kasugho,withdrew,M23 (withdrew),vacated,m23,rule2
+r2-G-NKN-FRONT-003,2025-03-07,Kagheri,withdrew,M23 (withdrew),vacated,m23,rule2
+r2-G-NKN-FRONT-005,2025-03-07,Kasugho,contested,Wazalendo (per Paluku Kuliumbwa); UPDF presence disputed (per civil society),kin,,override:held
+r7-E-NKN-018,2025-03-07,Kasugho (Lubero territory),withdrew,M23,vacated,m23,rule2
+r2-G-NKW-MASISI-001,2025-03-09,Nyabiondo,captured,M23/AFC (per Radio Okapi),m23,,rule3
+r7-E-NKW-018,2025-03-09,Nyabiondo,captured,M23,m23,,rule3
+r1-SKC-2025H1-006,2025-03-10,Kaziba Centre (Walungu),captured,AFC/M23,m23,,rule3
+r1-UV-2025Q1-030,2025-03-12,Rurambo,captured,AFC/M23 (per Actualite.cd),m23,,rule3
+r7-E-SKN-032,2025-03-12,Idjwi island,captured,M23 (per Umuseke),m23,,rule3
+r2-G-NKW-MASISI-006,2025-03-13,Kibati,contested,shared between AFC/M23 and FARDC-wazalendo (per Actualite.cd sources),contested,,rule1
+r1-SKC-2025H1-007,2025-03-15,Kaziba (Walungu),retaken,Wazalendo,kin,,rule3
+r1-NKW-2025H1-022,2025-03-19,Walikale town,captured,M23,m23,,rule3
+r7-E-IGIHE-077,2025-03-19,Walikale town and Kigoma airstrip,captured,M23,m23,,rule3
+r1-NKW-2025H1-008,2025-03-20,Walikale-centre,captured,M23/AFC,m23,,rule3
+r2-G-NKN-FRONT-007,2025-03-20,"Kanyabayonga to Kitsombiro axis, Lubero",holds,M23 (rebels),m23,,rule3
+r2-G-NKN-FRONT-008,2025-03-20,Musigha (Bunyatenge area),holds,"M23, per local sources",m23,,rule3
+r7-E-NKW-001,2025-03-20,Walikale town,entered,M23,m23,,rule3
+r7-E-NKW-015,2025-03-21,Mubi,captured,M23,m23,,rule3
+r1-NKW-2025H1-010,2025-03-27,Walikale-centre,holds,AFC/M23,m23,,rule3
+r1-GOE-075,2025-04,Walikale,withdrew,AFC/M23 and RDF (as the Group of Experts reports),vacated,m23,rule2
+r1-UV-2025Q2-022,2025-04,Ruzizi plain / Kamanyola-Sange-Uvira road,holds,"FARDC, FDNB and Wazalendo (south of Kamanyola); AFC/M23 up to Kamanyola",contested,,override:held
+r2-G-DOC-858-009,2025-04,Walikale (centre),withdrew,vacated by AFC/M23 in April 2025,vacated,m23,rule2
+r1-NKW-2025H1-014,2025-04-03,Masisi-Centre,holds,M23,m23,,rule3
+r7-E-NKW-004,2025-04-04,Walikale town,withdrew,M23,vacated,m23,rule2
+r1-UV-2025Q2-002,2025-04-06,Uvira (city),holds,Wazalendo of different groups (per Actualite.cd),kin,,rule3
+r1-SKN-2025Q2-001,2025-04-09,"Shanje, Bushaku 1, Bushaku 2, Nyawaronga",retaken,"Wazalendo (COPACO, MCDPN), per Radio Okapi",kin,,rule3
+r7-E-SKN-021,2025-04-11,"nearly 12 villages in the Kalehe highlands (Kasheke, Lemera, Bushaku area)",contested,"Wazalendo (civil society estimate, unconfirmed by M23)",contested,,rule1
+r1-SKN-2025Q2-006,2025-04-13,Kavumu airport,retaken,"Wazalendo (temporarily), per regional sources",kin,,rule3
+r1-SKN-2025Q2-003,2025-04-15,Lemera,retaken,"M23, per Radio Okapi",m23,,rule3
+r1-SKN-2025Q2-003,2025-04-15,Kabamba,retaken,"M23, per Radio Okapi",m23,,rule3
+r1-NKW-2025H1-015,2025-04-16,Kilambo,contested,M23/AFC (contested by Wazalendo),m23,,override:held
+r1-SKN-2025Q2-005,2025-04-16,Kavumu airport,holds,"M23, per Kivu Morning Post",m23,,rule3
+r1-NKW-2025H1-016,2025-04-17,Buleusa,holds,M23,m23,,rule3
+r1-SKC-2025H1-012,2025-04-18,Nyangezi,holds,M23,m23,,rule3
+r1-SKC-2025H1-012,2025-04-18,Walungu-Centre,holds,M23,m23,,rule3
+r1-NKW-2025H1-020,2025-04-25,Kibati,entered,M23,m23,,rule3
+r1-NKW-2025H1-021,2025-04-25,Kibati,withdrew,no armed presence after M23 withdrawal (per source),vacated,m23,rule2
+r1-SKC-2025H1-015,2025-04-27,Kaziba (Walungu),retaken,AFC/M23,m23,,rule3
+r1-NKW-2025H1-023,2025-05,northern Walikale territory,entered,M23,m23,,rule3
+r6-F-BENI-006,2025-05-02,Lunyasenge,captured,AFC/M23,m23,,rule3
+r1-UV-2025Q2-018,2025-05-05,Katogota - Kamanyola axis (Ruzizi plain),contested,contested between Wazalendo and AFC/M23 (Radio Okapi),contested,,rule1
+r1-SKS-2025Q2-014,2025-05-06,Luhwinja chefferie (Mwenga),captured,AFC/M23,m23,,rule3
+r1-SKS-2025Q2-002,2025-05-08,Katogota,captured,M23 (reportedly),m23,,rule3
+r2-G-DOC-858-022,2025-05-08,"Twangiza mine, Luhwindja",captured,AFC/M23,m23,,rule3
+r7-S2-M23A-027,2025-05-08,Katogota (Uvira territory),captured,M23,m23,,rule3
+r1-SKN-2025Q2-011,2025-05-12,"Mugote, southern Idjwi",holds,"M23, per Congo Rassure",m23,,rule3
+r1-NKS-2025Q2-001,2025-05-14,Bambo,retaken,M23,m23,,rule3
+r1-SKS-2025Q2-005,2025-05-20,Rugezi,retaken,Wazalendo (claimed),kin,,rule3
+r1-NKS-2025Q2-013,2025-05-25,Lushebere,contested,contested between M23 and FARDC/VDP,contested,,rule1
+r1-UV-2025Q2-033,2025-05-27,Kamanyola,holds,M23/AFC (per MSF),m23,,rule3
+r2-G-BLOCKED-008,2025-05-27,Katogota (frontline between Bukavu and Uvira),holds,frontline of M23/AFC; Uvira under government control; Kamanyola under M23/AFC control (MSF),contested,,override:held
+r2-G-BLOCKED-009,2025-05-27,Kamanyola,holds,M23/AFC,m23,,rule3
+r1-SKN-2025Q2-014,2025-06-05,Mabingu,retaken,"Wazalendo, per Radio Okapi",kin,,rule3
+r1-SKS-2025Q2-008,2025-06-28,"Ruzizi plain north of Sange (Kamanyola, Katogota, Luvungi, Luberizi area)",holds,"AFC/M23 to the north, FARDC to the south",contested,,override:held
+r1-UCD-NK-FARDC-WZ-015,2025-06-29,Biramba,contested,"AFC-M23 (present in the centre) and Wazalendo around the village, per KMP",contested,,rule1
+r1-NKN-2025H2-002,2025-07-04,Muhola hill,retaken,FARDC-UPDF (retaken from a Maï-Maï group),kin,,rule3
+r1-NKN-2025H2-003,2025-07-04,"Mabambi, Kalundu, Kivugha, Maboya",retaken,regular forces (FARDC),kin,,rule3
+r1-SKN-2025Q3-004,2025-07-29,Kamakombe,contested,contested between M23-AFC and Wazalendo MDLC,contested,,rule1
+r1-SKN-2025Q3-005,2025-08-02,Kamakombe,contested,"half of village briefly occupied by M23 then pushed back by Wazalendo MDLC, per Radio Okapi",kin,,override:held
+r1-SKC-2025H2-018,2025-08-10,Mulamba,contested,contested (see Kabi statement),contested,,rule1
+r1-SKC-2025H2-019,2025-08-10,Mulamba,captured,AFC/M23 (per Kabi),m23,,rule3
+r1-SKC-2025H2-019,2025-08-10,Kaniola,captured,AFC/M23 (per Kabi),m23,,rule3
+r1-UV-2025Q3-004,2025-08-12,Ruzizi plain beyond Uvira (FARDC/Wazalendo); Nyangezi–Kamanyola axis (M23),holds,FARDC and Wazalendo (Ruzizi plain beyond Uvira); rebels M23 (Nyangezi–Kamanyola axis),contested,,override:held
+r2-G-DOC-858-012,2025-09,villages around Bibwe,captured,AFC/M23 and RDF,m23,,rule3
+r2-G-DOC-858-015,2025-09,Luntukulu,captured,AFC/M23 and RDF,m23,,rule3
+r2-G-DOC-858-015,2025-09,Chulwe,captured,AFC/M23 and RDF,m23,,rule3
+r2-G-DOC-858-015,2025-09,Lubimbe,captured,AFC/M23 and RDF,m23,,rule3
+r1-SKN-2025Q3-018,2025-09-09,Luhihi,none stated,"M23, per Radio Okapi ('qui occupe la région')",m23,,rule3
+r1-GOE-088,2025-09-21,Bibwe,captured,AFC/M23 and RDF,m23,,rule3
+r1-GOE-088,2025-09-21,Nzibira,captured,AFC/M23 and RDF,m23,,rule3
+r7-E-SKN-022,2025-09-21,"Nzibira town, Walungu",captured,M23 (per BBC Gahuza),m23,,rule3
+r7-E-SKN-023,2025-09-21,"Nzibira town, Walungu",captured,AFC/M23,m23,,rule3
+r4-G-LOCAL-NK-002,2025-09-24,Kirumba-Katondi axis,holds,AFC/M23,m23,,rule3
+r7-E-IGIHE-074,2025-09-26,Rusamambu and Bukumbirwa,holds,M23,m23,,rule3
+r1-SKC-2025H2-017,2025-09-29,Nzibira,contested,"AFC-M23 (per the page, occupied about 22 September)",contested,,rule1
+r2-G-NKN-FRONT-010,2025-10,Kanyabayonga-Kirumba axis,holds,AFC/M23 and RDF (per GoE),m23,,rule3
+r1-NKW-2025H2-014,2025-10-17,Munsanga (Walikale),holds,Wazalendo (per source),kin,,rule3
+r1-SKC-2025H2-022,2025-10-19,Kilungu-Kasika axis,withdrew,Burundian soldiers,vacated,kin,rule2
+r7-E-NKW-013,2025-10-20,Nyabiondo,contested,AFC/M23,contested,,rule1
+r1-NKN-2025H2-018,2025-10-27,Vuvatama and Kanyamitala,entered,"AFC/M23 (new positions, per the governor)",m23,,rule3
+r1-NKN-2025H2-019,2025-10-27,"buffer zone near Kalangira (Baswagha chiefdom), south of Lubero-Centre",holds,Ugandan army (per Radio Okapi),kin,,rule3
+r1-SKN-2025Q4-010,2025-10-27,Kavumu airport,holds,AFC/M23 (per AFC/M23 and UMUSEKE sources),m23,,override:held
+r2-G-NKW-MASISI-021,2025-10-28,Kibati,captured,AFC/M23 (per other sources),m23,,rule3
+r2-G-NKW-MASISI-031,2025-11,Katoyi (Gatoyi),contested,"AFC-M23 (Nov 2025); FARDC and PARECO-Wazalendo (Dec 2025); AFC-M23 (Feb-Mar 2026), per KT Press",m23,,override:held
+r1-SKS-2025Q4-012,2025-11-04,Tuwetuwe,holds,"FARDC (position held; attack by the rebel coalition repelled, per local sources)",kin,,rule3
+r1-SKS-2025Q4-013,2025-11-04,Mikenge,entered,"Wazalendo of the FDCC (large part of the village, per a Wazalendo spokesperson)",kin,,rule3
+r1-NKW-2025H2-004,2025-11-12,Karere (Masisi),captured,AFC/M23,m23,,rule3
+r6-F-RUT-004,2025-11-12,Manyoni,contested,not clear,contested,,rule1
+r7-E-NKW-021,2025-11-13,Kazinga,captured,M23 (unconfirmed),m23,,rule3
+r1-SKC-2025H2-013,2025-11-16,Maimingi,captured,M23,m23,,rule3
+r1-SKC-2025H2-013,2025-11-16,Kimbili,captured,M23,m23,,rule3
+r1-SKC-2025H2-013,2025-11-16,Nyalubemba,captured,M23,m23,,rule3
+r4-G-LOCAL-SWRN-005,2025-11-20,Kimbili,captured,"AFC-M23, per Radio Okapi sources",m23,,rule3
+r4-G-LOCAL-SWRN-005,2025-11-20,Nyalubemba,captured,"AFC-M23, per Radio Okapi sources",m23,,rule3
+r4-G-LOCAL-NK-014,2025-11-22,Buhimba,captured,AFC-M23,m23,,rule3
+r4-G-LOCAL-NK-014,2025-11-22,Mahanga,captured,AFC-M23,m23,,rule3
+r1-NKW-2025H2-003,2025-11-25,Mpombi (Walikale),holds,wazalendo,kin,,rule3
+r1-SKC-2025H2-021,2025-11-30,Kalimbi; Kasika,entered,AFC-M23 (per independent sources and civil society),m23,,rule3
+r1-UV-2025Q4-004,2025-12,Uvira,withdrew,FARDC and Wazalendo,vacated,kin,rule2
+r2-G-DOC-466-013,2025-12,Uvira,holds,"AFC/M23 and RDF (per Group, covert presence retained)",m23,,rule3
+r2-G-DOC-466-037,2025-12,Uvira,withdrew,Wazalendo (retreated outside Uvira town or to their bases),vacated,kin,override:held
+r7-E-IGIHE-087,2025-12,Sange,withdrew,Burundian/FARDC/Wazalendo (withdrew),vacated,kin,rule2
+r7-E-IGIHE-087,2025-12,Runingo,withdrew,Burundian/FARDC/Wazalendo (withdrew),vacated,kin,rule2
+r7-E-IGIHE-087,2025-12,Kiliba,withdrew,Burundian/FARDC/Wazalendo (withdrew),vacated,kin,rule2
+r7-E-IGIHE-087,2025-12,Uvira,withdrew,Burundian/FARDC/Wazalendo (withdrew),vacated,kin,rule2
+r7-E-IGIHE-192,2025-12-02,Katogota,captured,"AFC/M23 (advancing from Kamanyola towards Uvira, per Igihe's caption)",m23,,rule3
+r7-E-IGIHE-192,2025-12-02,Rurambo,captured,"AFC/M23 (advancing from Kamanyola towards Uvira, per Igihe's caption)",m23,,rule3
+r7-E-IGIHE-192,2025-12-02,Luberizi,captured,"AFC/M23 (advancing from Kamanyola towards Uvira, per Igihe's caption)",m23,,rule3
+r7-E-IGIHE-192,2025-12-02,Luvungi,captured,"AFC/M23 (advancing from Kamanyola towards Uvira, per Igihe's caption)",m23,,rule3
+r7-E-IGIHE-192,2025-12-02,Bwegera,captured,"AFC/M23 (advancing from Kamanyola towards Uvira, per Igihe's caption)",m23,,rule3
+r7-E-IGIHE-192,2025-12-02,Nyakabere,captured,"AFC/M23 (advancing from Kamanyola towards Uvira, per Igihe's caption)",m23,,rule3
+r7-E-IGIHE-192,2025-12-02,Sange,captured,"AFC/M23 (advancing from Kamanyola towards Uvira, per Igihe's caption)",m23,,rule3
+r1-SKC-2025H2-003,2025-12-03,Kamanyola,contested,"divided: FARDC south, AFC-M23 north (per Radio Okapi local sources)",contested,,override:held
+r1-SKC-2025H2-004,2025-12-04,Kamanyola,contested,"disputed: shared, or FARDC-Wazalendo and Burundian army, per different sources",contested,,override:held
+r1-SKS-2025Q4-016,2025-12-06,Luvungi,entered,"AFC/M23 (reported conditionally, per residents)",m23,,rule3
+r1-SKS-2025Q4-016,2025-12-06,Lubarika,entered,"AFC/M23 (reported conditionally, per residents)",m23,,rule3
+r1-SKS-2025Q4-016,2025-12-06,Luberizi,entered,"AFC/M23 (reported conditionally, per residents)",m23,,rule3
+r1-SKS-2025Q4-015,2025-12-08,Katogota,holds,AFC/M23,m23,,rule3
+r7-E-IGIHE-037,2025-12-08,Uvira (city),contested,FARDC/Wazalendo/Burundian forces (fleeing),vacated,kin,override:held
+r7-E-IGIHE-039,2025-12-08,Sange,entered,AFC/M23,m23,,rule3
+r7-E-IGIHE-195,2025-12-08,Uvira city,withdrew,not stated,vacated,,rule2
+r1-UV-2025Q4-002,2025-12-09,Uvira,entered,AFC/M23 (per Afrikarabia),m23,,rule3
+r4-G-UV-DEEP-003,2025-12-09,Uvira city,captured,M23,m23,,rule3
+r4-G-UV-DEEP-004,2025-12-09,Mulongwe,entered,M23,m23,,rule3
+r4-G-UV-DEEP-004,2025-12-09,Kasenga,entered,M23,m23,,rule3
+r4-G-UV-DEEP-004,2025-12-09,Kavimvira,entered,M23,m23,,rule3
+r1-GOE-001,2025-12-10,Uvira,captured,AFC/M23 and RDF (as the Group of Experts reports),m23,,rule3
+r1-UC-M23-002,2025-12-10,Uvira,captured,AFC/M23 and RDF forces (per the UN Group of Experts as relayed),m23,,rule3
+r1-UV-2025Q4-001,2025-12-10,Uvira,entered,M23 and Rwandan forces (HRW),m23,,rule3
+r1-UV-2025Q4-003,2025-12-10,Uvira,contested,M23 says it holds; Governor Purusi says FARDC and allies hold,contested,,override:held
+r1-UV-2025Q4-021,2025-12-10,Uvira,holds,M23 (per M23),m23,,rule3
+r2-G-DOC-466-026,2025-12-10,Makobola,entered,AFC/M23 and RDF,m23,,rule3
+r7-E-IGIHE-093,2025-12-10,Uvira (city),holds,AFC/M23,m23,,rule3
+r7-E-UV-034,2025-12-10,Kavimvira,entered,"M23 fighters, according to journalist Olivier Muhasha",m23,,rule3
+r1-SKS-2025Q4-008,2025-12-13,Makobola,holds,FARDC and Wazalendo groups,kin,,rule3
+r2-G-SKS-FIZI-008,2025-12-13,Makobola 2; Kipupu,captured,AFC/M23,m23,,rule3
+r1-NKS-2025Q4-009,2025-12-15,Kirumba,contested,AFC/M23 positions per article,contested,,rule1
+r1-POL-2025-015,2025-12-15,Uvira (city),contested,AFC/M23 (announced intent to withdraw),m23,,override:held
+r1-UV-2025Q4-023,2025-12-16,Uvira,withdrew,AFC/M23,vacated,m23,rule2
+r1-UV-2025Q4-028,2025-12-17,Uvira,contested,"M23 (per DRC government, disguised in place)",contested,,rule1
+r1-UV-2025Q4-030,2025-12-18,Uvira,contested,"AFC/M23 (troops partly withdrawing; police arriving, per anonymous source)",m23,,override:held
+r7-E-IGIHE-103,2025-12-18,Uvira (city),withdrew,AFC/M23,vacated,m23,rule2
+r1-SKS-2025Q4-002,2025-12-22,Makobola,contested,"AFC/M23 (last position at Bangwi); Wazalendo at the Pemba escarpments; FARDC at Kasekezi and Ngalula, per M'massa Etùba",m23,,override:held
+r1-SKS-2025Q4-003,2025-12-22,Mboko,holds,AFC-M23,m23,,rule3
+r2-G-SKS-FIZI-003,2025-12-22,Mboko,holds,"AFC-M23, per Actualite.cd",m23,,rule3
+r2-G-SKS-FIZI-005,2025-12-23,Mboko,contested,not held by AFC-M23 per Kivutimes (threatened),kin,,override:held
+r7-E-IGIHE-099,2025-12-25,Makobola (centre),retaken,Wazalendo/FARDC (claimed),kin,,rule3
+r7-E-IGIHE-100,2025-12-25,Makobola (centre),withdrew,"AFC/M23 (left without fighting, per Igihe)",vacated,m23,rule2
+r7-E-UV-038,2025-12-25,Makobola,retaken,"DRC forces and Wazalendo, according to residents cited by Umuryango",kin,,rule3
+r1-UV-2026Q1-007,2026-01,zones around 'point zéro' (Fizi/Uvira high plateaux),entered,Twirwaneho,m23,,rule3
+r2-G-DOC-466-008,2026-01,Sange,holds,AFC/M23 and RDF (AFC/M23 South Kivu headquarters),m23,,rule3
+r7-E-IGIHE-107,2026-01,Point-Zéro,captured,Twirwaneho,m23,,rule3
+r1-NKW-2026H1-014,2026-01-01,Buhimba,holds,FARDC supported by Wazalendo,kin,,rule3
+r4-G-LOCAL-NK-017,2026-01-05,Buhimba,retaken,government forces (FARDC),kin,,rule3
+r1-NKS-2026Q1-001,2026-01-15,Bukombo grouping / Mweso area,contested,contested between AFC/M23 and Wazalendo (CMC),contested,,rule1
+r1-SKS-2026Q1-001,2026-01-16,Point zéro,captured,"Twirwaneho, allied to AFC/M23 (per Actualite.cd)",m23,,rule3
+r1-SKS-2026Q1-002,2026-01-16,Point Zéro,captured,Twirwaneho,m23,,rule3
+r1-UV-2026Q1-001,2026-01-16,Uvira (city),withdrew,AFC/M23,vacated,m23,rule2
+r1-UV-2026Q1-002,2026-01-17,Uvira (city),withdrew,M23,vacated,m23,rule2
+r1-UV-2026Q1-005,2026-01-17,Kirungu,captured,Wazalendo,kin,,rule3
+r1-UV-2026Q4-009,2026-01-17,Uvira city,withdrew,AFC/M23,vacated,m23,rule2
+r4-G-UV-DEEP-010,2026-01-17,Uvira city,retaken,"Wazalendo, then FARDC (returning to the city)",kin,,override:held
+r7-E-IGIHE-186,2026-01-17,Point-Zéro,retaken,"Twirwaneho, then lost to DRC forces (per Igihe)",kin,,override:held
+r1-GOE-002,2026-01-18,Uvira,withdrew,AFC/M23 and RDF (as the Group of Experts reports),vacated,m23,rule2
+r1-UC-BI-FDLR-023,2026-01-18,Uvira,withdrew,AFC/M23 and RDF (withdrew 18 January 2026),vacated,m23,rule2
+r1-UC-FARDC-010,2026-01-18,Uvira,entered,"Wazalendo, then FARDC (per BBC Gahuza)",kin,,override:held
+r1-UC-M23-003,2026-01-18,Uvira,withdrew,AFC/M23 and RDF (until withdrawal),vacated,m23,rule2
+r1-UC-RDF-011,2026-01-18,Uvira (city),withdrew,AFC/M23 and RDF (per the Group of Experts),vacated,m23,rule2
+r1-UV-2026Q1-003,2026-01-18,Uvira (city),retaken,FARDC and Wazalendo,kin,,rule3
+r1-UV-2026Q1-004,2026-01-19,Kabunambo,holds,"M23/RDF/AFC elements, per local sources",m23,,rule3
+r2-G-UV-SVHC-013,2026-01-19,Kabunambo,holds,AFC/M23 (troops reported there per local sources),m23,,rule3
+r2-G-UV-SVHC-013,2026-01-19,Luvungi,holds,AFC/M23 (troops reported there per local sources),m23,,rule3
+r2-G-UV-SVHC-013,2026-01-19,Bwegera,holds,AFC/M23 (troops reported there per local sources),m23,,rule3
+r2-G-UV-SVHC-013,2026-01-19,Sange,holds,AFC/M23 (troops reported there per local sources),m23,,rule3
+r1-UC-BI-FDLR-025,2026-01-29,Kanguli,retaken,FARDC-FDNB forces,kin,,rule3
+r1-SKS-2026Q1-003,2026-01-30,Point Zéro,retaken,FARDC with FDNB and Wazalendo,kin,,rule3
+r2-G-DOC-466-009,2026-02,Kabunambo,holds,frontline between AFC/M23-RDF and FARDC (10-15 km buffer),contested,,rule1
+r2-G-DOC-466-028,2026-02,Minembwe,holds,MRDP/Twirwaneho and AFC/M23,m23,,rule3
+r2-G-DOC-466-028,2026-02,Mikenge,holds,MRDP/Twirwaneho and AFC/M23,m23,,rule3
+r2-G-UNDOCS-018,2026-02,"Chugi, Kibabi, Kaniro (Bahunde chiefdom)",contested,"Wazalendo temporarily, then AFC/M23",m23,,override:held
+r1-NKS-2026Q1-006,2026-02-03,Kivuma and Kanyangohe,holds,"Wazalendo, per Actualite.cd (attack repelled)",kin,,rule3
+r7-L-DRC-020,2026-02-06,Minembwe-centre,retaken,FARDC (government claim),kin,,rule3
+r1-SKN-2026Q1-004,2026-02-21,Kavumu,contested,AFC/M23 area contested by Wazalendo,m23,,override:held
+r1-SKN-2026Q1-002,2026-02-24,Kitendebwa/Kashihe/Kiduveri (Kalehe),contested,contested between AFC-M23 and FARDC/Wazalendo,contested,,rule1
+r1-NKW-2026H1-017,2026-02-25,Kibanda,contested,"AFC/M23 (for several months, per Actualite.cd)",contested,,rule1
+r4-G-LOCAL-NK-018,2026-02-28,Kibati,contested,AFC-M23,contested,,rule1
+r1-UV-2026Q1-008,2026-03,"north of Uvira, Ruzizi Plain, Hauts Plateaux",holds,M23,m23,,rule3
+r7-E-IGIHE-051,2026-03,"Lubero territory localities (Lunyasenge, Bukununu, Musiya, Katondi, Kipese)",withdrew,AFC/M23,vacated,m23,rule2
+r7-E-IGIHE-165,2026-03,Bukununu,contested,AFC/M23,contested,,rule1
+r7-E-IGIHE-165,2026-03,Katondi,contested,AFC/M23,contested,,rule1
+r7-E-IGIHE-165,2026-03,Kipese,contested,AFC/M23,contested,,rule1
+r1-ATR-SK-2026-008,2026-03-01,Mikenge,retaken,FARDC with FDNB and Wazalendo (per source),kin,,rule3
+r1-SKS-2026Q1-012,2026-03-01,Mikenge,retaken,FARDC with Wazalendo,kin,,rule3
+r1-ST-BI-022,2026-03-01,Mikenge,retaken,FARDC with FDNB and Wazalendo,kin,,rule3
+r4-G-LOCAL-SWRN-007,2026-03-01,Mikenge,retaken,"FARDC, per FARDC",kin,,rule3
+r1-NKW-2026H1-011,2026-03-02,Kibati (centre),contested,"FARDC and allied Wazalendo (per Actualite.cd, conditional); AFC/M23 held two positions on the Kashebere axis",contested,,override:held
+r1-SKS-2026Q1-014,2026-03-02,Mikenge centre including main hospital,holds,"FARDC, FDNB and Wazalendo",kin,,rule3
+r2-G-NKW-MASISI-030,2026-03-04,Rubaya mining zone,holds,M23 rebels,m23,,rule3
+r1-NKN-2026H1-001,2026-03-15,Bunyatenge,holds,"AFC/M23 (as the source says, villages occupied for several months)",m23,,rule3
+r1-UV-2026Q1-006,2026-03-16,Kirungu,captured,"rebel coalition (Twirwaneho, Red Tabara, Ngumino, FNL-Zabampema, AFC-M23)",m23,,rule3
+r1-GOE-017,2026-03-23,Lubero frontline (and other withdrawal-designated localities),withdrew,RDF and AFC/M23,vacated,m23,rule2
+r1-NKN-2026H1-002,2026-03-23,Bukununu,withdrew,AFC/M23,vacated,m23,rule2
+r1-NKN-2026H1-002,2026-03-23,Katondi,withdrew,AFC/M23,vacated,m23,rule2
+r1-NKN-2026H1-002,2026-03-23,Kipese,withdrew,AFC/M23,vacated,m23,rule2
+r7-S2-M23A-022,2026-03-23,Kipese,withdrew,AFC/M23,vacated,m23,rule2
+r7-S2-M23A-022,2026-03-23,Ivatama,withdrew,AFC/M23,vacated,m23,rule2
+r7-S2-M23A-022,2026-03-23,Ilambula,withdrew,AFC/M23,vacated,m23,rule2
+r7-S2-M23A-022,2026-03-23,Musimba,withdrew,AFC/M23,vacated,m23,rule2
+r1-SKN-2026Q1-012,2026-03-26,Minova,withdrew,AFC/M23 (until withdrawal),vacated,m23,rule2
+r6-F-BENI-005,2026-03-30,Kalonge and Lubango villages,contested,"AFC/M23 reportedly retook control, per several sources cited by Radio Okapi",contested,,rule1
+r1-GOE-018,2026-04,Pinga,contested,"contested (AFC/M23 and RDF vs FARDC, VDP/Wazalendo, FDLR)",contested,,rule1
+r1-UV-2026Q2-018,2026-04,South Kivu (province-wide statement),holds,RDF and AFC/M23 as named by the source; no withdrawals documented,m23,,rule3
+r1-NKW-2026H1-006,2026-04-05,Lukweti,holds,Wazalendo,kin,,rule3
+r1-SKN-2026Q2-001,2026-04-06,Kaziba,captured,AFC/M23,m23,,rule3
+r1-SKN-2026Q2-001,2026-04-06,Katale,captured,AFC/M23,m23,,rule3
+r1-SKN-2026Q2-003,2026-04-07,"Tushunguti (Ziralo, Kalehe)",captured,AFC/M23,m23,,rule3
+r1-SKN-2026Q2-004,2026-04-09,"Tushunguti (Ziralo, Kalehe)",retaken,FARDC with wazalendo,kin,,rule3
+r1-NKS-2026Q2-001,2026-04-10,Rwankuba,contested,not stated,contested,,rule1
+r1-SKN-2026Q2-005,2026-05-03,"Tushunguti (Ziralo, Kalehe)",retaken,AFC/M23,m23,,rule3
+r1-UV-2026Q2-003,2026-05-09,Sange,entered,"government soldiers and Wazalendo (entering, per DW)",kin,,rule3
+r1-UV-2026Q2-005,2026-05-11,Kabunambo,withdrew,"AFC/M23 (withdrew to Katogota, per local sources)",vacated,m23,rule2
+r1-UV-2026Q2-005,2026-05-11,Sange,withdrew,"AFC/M23 (withdrew to Katogota, per local sources)",vacated,m23,rule2
+r1-UV-2026Q2-005,2026-05-11,Mutarule,withdrew,"AFC/M23 (withdrew to Katogota, per local sources)",vacated,m23,rule2
+r1-UV-2026Q2-005,2026-05-11,Luberizi,withdrew,"AFC/M23 (withdrew to Katogota, per local sources)",vacated,m23,rule2
+r1-UV-2026Q2-005,2026-05-11,Bwegera,withdrew,"AFC/M23 (withdrew to Katogota, per local sources)",vacated,m23,rule2
+r1-UV-2026Q2-005,2026-05-11,Lemera,withdrew,"AFC/M23 (withdrew to Katogota, per local sources)",vacated,m23,rule2
+r1-UV-2026Q2-005,2026-05-11,Luvungi,withdrew,"AFC/M23 (withdrew to Katogota, per local sources)",vacated,m23,rule2
+r1-ATR-NK-2026-007,2026-05-26,Ihula,retaken,AFC/M23,m23,,rule3
+r1-ATR-NK-2026-007,2026-05-26,Katobo,retaken,AFC/M23,m23,,rule3
+r1-NKW-2026H1-007,2026-05-27,Nyabiondo,retaken,Wazalendo (briefly),kin,,rule3
+r1-NKW-2026H1-012,2026-05-31,Kibati (centre),contested,FARDC and Wazalendo (centre); AFC/M23 (surrounding hills),contested,,override:held
+r1-UC-BI-FDLR-003,2026-06,Jomba,holds,FDLR-RUD units active (per the Group of Experts),kin,,rule3
+r1-UC-BI-FDLR-003,2026-06,Binza,holds,FDLR-RUD units active (per the Group of Experts),kin,,rule3
+r1-UC-BI-FDLR-003,2026-06,Busanza,holds,FDLR-RUD units active (per the Group of Experts),kin,,rule3
+r1-SKC-2026H1-016,2026-06-08,Mikenge,captured,"Twirwaneho, allied to AFC-M23, per Kivu Morning Post",m23,,rule3
+r1-SKC-2026H1-017,2026-06-10,Mikenge,retaken,"FARDC, per Kivu Morning Post and an army security source",kin,,rule3
+r1-SKC-2026H1-018,2026-06-10,Mikenge,retaken,"FARDC, per FARDC communiqué",kin,,rule3
+r1-SKC-2026H1-018,2026-06-10,Kakenge,retaken,"FARDC, per FARDC communiqué",kin,,rule3
+r1-NKW-2026H1-013,2026-06-13,Buhimba,contested,"Wazalendo (for about a week as of 13 June, per Actualite.cd)",contested,,rule1
+r1-SKS-2026Q2-007,2026-06-13,Positions around Minembwe,holds,Twirwaneho/M23 (per Twirwaneho/M23 and local sources),m23,,rule3
+r1-SV-2026-019,2026-06-15,"Bitale (Tshivanga-Bulambika-Hombo axis, near Kahuzi-Biega National Park)",captured,AFC/M23 rebels,m23,,rule3
+r1-SKS-2026Q2-005,2026-06-16,Kitavi,retaken,FARDC (per FARDC spokesperson),kin,,rule3
+r1-SKS-2026Q2-005,2026-06-16,Irundu,retaken,FARDC (per FARDC spokesperson),kin,,rule3
+r1-SKS-2026Q2-006,2026-06-17,Minembwe centre,contested,MRDP/Twirwaneho (per residents); FARDC (per army claim),contested,,override:held
+r7-E-IGIHE-094,2026-06-17,Minembwe (commune),captured,FARDC (claimed),kin,,rule3
+r7-E-IGIHE-095,2026-06-18,Minembwe (commune),holds,MRDP-Twirwaneho,m23,,rule3
+r7-E-IGIHE-097,2026-06-18,Minembwe (commune),entered,M23 and Twirwaneho,m23,,rule3
+r1-ST-M23-2026-014,2026-07,Ilundu,captured,AFC/M23 (claimed by the movement),m23,,rule3
+r7-E-IGIHE-119,2026-07,Ilundu,captured,"AFC/M23 and MRDP Twirwaneho (their leaders visited the areas after the capture, per Igihe)",m23,,rule3
+r7-E-IGIHE-185,2026-07-01,Bilalombili,captured,Twirwaneho,m23,,rule3
+r1-SKS-2026Q3-005,2026-07-04,Point Zéro,captured,"Twirwaneho, allied to AFC/M23, per Radio Maendeleo",m23,,rule3
+r1-UV-2026Q3-003,2026-07-04,"Point Zero (Itombwe, Mwenga)",captured,Twirwaneho and M23/AFC-M23 (their claim),m23,,rule3
+r2-G-UNDOCS-005,2026-07-04,Point Zero (Minembwe area),retaken,Twirwaneho and M23,m23,,rule3
+r7-E-IGIHE-106,2026-07-04,Point-Zéro,captured,AFC/M23 and MRDP-Twirwaneho,m23,,rule3
+r7-E-IGIHE-184,2026-07-04,Point-Zéro; Baruta; Kalonge; Bicumbi; Rubemba,captured,MRDP-Twirwaneho,m23,,rule3
+r6-F-FIZ-012,2026-07-06,Point Zéro,withdrew,FARDC announced withdrawal,kin,,override:held
+r1-SKS-2026Q3-007,2026-07-09,Kakenge,captured,"Twirwaneho allied to AFC/M23, per local sources",m23,,rule3
+r1-SKS-2026Q3-007,2026-07-09,Mikenge,captured,"Twirwaneho allied to AFC/M23, per local sources",m23,,rule3
+r6-F-FIZ-010,2026-07-10,Kipupu (Itombwe sector chef-lieu),retaken,FARDC and Wazalendo after AFC/M23 seized it on 10 July,m23,,override:held
+r1-NKN-2026H2-001,2026-07-12,Kanyabayonga,holds,M23 rebels supported by Rwanda (as ACP states),m23,,rule3
+r1-NKN-2026H2-001,2026-07-12,Kirumba,holds,M23 rebels supported by Rwanda (as ACP states),m23,,rule3
+r1-NKW-2026H2-001,2026-07-12,Katoy,retaken,Wazalendo (per Actualite.cd local sources),kin,,rule3
+r1-SKN-2026Q3-007,2026-07-13,Lumbishi (Kalehe),retaken,Wazalendo (per local sources),kin,,rule3
+r6-F-FIZ-007,2026-07-22,Kanguli (village centre),captured,AFC/M23-Twirwaneho troops,m23,,rule3
+r6-F-FIZ-008,2026-07-25,Point Zéro and surroundings,holds,"AFC/M23 (FARDC at Kipupu, Mulima, Mukera, Fizi-Centre)",m23,,override:held
+r6-F-UV-SK-006,2026-08-08,Bundje (lower part / upper part),contested,"lower part Wazalendo; upper part AFC/M23, according to local sources cited by Actualite.cd",contested,,override:held
+r1-SKN-2026Q3-003,2026-08-11,Chambombo,retaken,Wazalendo,kin,,rule3
+r1-SKN-2026Q3-003,2026-08-11,Kazinga,retaken,Wazalendo,kin,,rule3
+r6-F-UV-SK-012,2026-08-14,Chambombo,retaken,"FARDC (claimed by the army, as reported by Radio Okapi)",kin,,rule3
+r6-F-UV-SK-012,2026-08-14,Lumbishi,retaken,"FARDC (claimed by the army, as reported by Radio Okapi)",kin,,rule3
+r6-F-UV-SK-012,2026-08-14,Numbi,retaken,"FARDC (claimed by the army, as reported by Radio Okapi)",kin,,rule3
+r6-F-UV-SK-010,2026-08-15,Lumbishi,retaken,"rebels (AFC-M23), according to local sources cited by ReelActu",m23,,rule3
+r1-NKW-2026H2-006,2026-08-20,Remeka,captured,AFC-M23 (per Kivu Morning Post),m23,,rule3
+r6-F-UV-SK-017,2026-08-23,Masango-centre,captured,"Malimba and Rubarati: AFC/M23-Twirwaneho; Masango-centre: Wazalendo and the Congolese army, per the civil-society source",contested,,override:held
+r6-F-UV-SK-018,2026-08-23,Malimba and Rubarati,captured,"Twirwaneho, according to Kglnews citing local information",m23,,rule3
+r6-F-UV-SK-019,2026-08-26,Masango,captured,"Twirwaneho and AFC/M23, according to Bwiza.com citing videos on social media",m23,,rule3
+r1-UV-2026Q3-004,2026-08-28,Point Zéro,contested,"AFC/M23 (per Actualite.cd, 31 Aug)",contested,,rule1
+r1-SKC-2026H2-010,2026-08-29,mining sites around Kitutu,holds,soldiers and Wazalendo fighters (per civil society),kin,,rule3
+r1-ATR-SK-2026-010,2026-08-30,Kasika,holds,AFC/M23,m23,,rule3
+r1-UV-2026Q3-007,2026-08-31,Ruhuha,retaken,FARDC/FDNB/Wazalendo (anonymous claim),kin,,rule3
+r6-F-UV-SK-021,2026-09-01,Masango,retaken,"FARDC (claimed by the army spokesperson, as relayed by ACP/MCP)",kin,,rule3
+r7-E-SKN-003,2026-09-02,Tushunguti,captured,AFC/M23 (per Bwiza),m23,,rule3
+r1-UCD-M23-BRIGADES-013,2026-09-05,Ngululu,captured,AFC/M23,m23,,rule3
+r1-NKW-2026H2-009,2026-09-08,Rutoboko; Kibahemula,retaken,Wazalendo (per Actualite.cd),kin,,rule3
+r1-NKW-2026H2-010,2026-09-08,Kazinga,captured,AFC/M23 (per Kivu Morning Post),m23,,rule3
+r1-NKW-2026H2-012,2026-09-10,Kibati,contested,"AFC-M23 (before the offensive, per Kivu Morning Post)",contested,,rule1
+r7-E-NKW-039,2026-09-10,Mindjendje hill,captured,AFC/M23 (per Rwanda Tribune),m23,,rule3
+r2-G-NKW-MASISI-022,2026-09-11,Kibati (centre),contested,FARDC and wazalendo in the centre; AFC/M23 on the surrounding hills,contested,,override:held
+r1-NKW-2026H2-015,2026-09-15,Remeka,retaken,FARDC (per FARDC communiqué),kin,,rule3
+r1-NKW-2026H2-013,2026-09-18,Kibati,retaken,AFC/M23 (per Actualite.cd),m23,,rule3
+r7-S2-M23A-020,2026-09-24,Remeka (Masisi),retaken,AFC/M23,m23,,rule3
+r1-NKW-2026H2-016,2026-09-25,Remeka,contested,"FARDC and wazalendo (before the renewed attack, per Actualite.cd)",contested,,rule1
+r2-G-NKW-MASISI-026,2026-09-27,"Mindjendje area (Tchad, Kahongoboka, Kukibingu, Bubolwa, Luola)",retaken,FARDC supported by wazalendo,kin,,rule3
+r1-NKN-2026H2-005,2026-09-30,Vyanze (Kirivu hill),contested,M23-AFC (returned after temporary Wazalendo advance),m23,,override:held
+r4-G-LOCAL-NK-019,2026-09-30,Rubaya,holds,AFC/M23,m23,,rule3
+r1-SKN-2026Q4-006,2026-10,Lumbishi,retaken,FRN troops (retaken),m23,,rule3
+r1-SKN-2026Q4-006,2026-10,Numbi,retaken,FRN troops (retaken),m23,,rule3
+r1-SKS-2026Q4-007,2026-10,Magunda,retaken,"Burundian soldiers, FARDC and Wazalendo (per source)",kin,,rule3
+r1-NKN-2026H2-006,2026-10-01,"Kandole, Kirivu",retaken,Volontaires pour la défense de la patrie (according to sources on the spot),kin,,rule3
+r1-SKN-2026Q4-001,2026-10-05,Katale,retaken,Wazalendo (said to have retaken),kin,,rule3
+r1-SKN-2026Q4-001,2026-10-05,Chambombo,retaken,Wazalendo (said to have retaken),kin,,rule3
+r1-SKN-2026Q4-002,2026-10-05,Lumbishi,entered,Wazalendo presence reported,kin,,rule3
+r1-UCD-FARDC-WZ-035,2026-10-05,Kashovu,retaken,Wazalendo allied to FARDC (said to have retaken),kin,,rule3
+r1-UCD-FARDC-WZ-036,2026-10-05,Katale,retaken,"Wazalendo (claimed, per sources close to the army)",kin,,rule3
+r1-UCD-FARDC-WZ-036,2026-10-05,Chambombo,retaken,"Wazalendo (claimed, per sources close to the army)",kin,,rule3
+r1-NKS-2026Q4-010,2026-10-06,Katoyi centre,retaken,FARDC-Wazalendo coalition (per military sources),kin,,rule3
+r1-SKN-2026Q4-005,2026-10-06,Numbi centre,retaken,FARDC supported by Wazalendo (according to local sources),kin,,rule3
+r1-UV-2026Q4-008,2026-10-06,Ruhuha,holds,Congolese authorities (reinforced),kin,,rule3
+r1-UV-2026Q4-008,2026-10-06,Masango,holds,Congolese authorities (reinforced),kin,,rule3
+r7-E-SKN-004,2026-10-06,Numbi centre,retaken,FARDC supported by Wazalendo,kin,,rule3
+r7-E-SKN-026,2026-10-07,Lumbishi,retaken,"AFC/M23 (per Bwiza, 7 Oct 2026)",m23,,rule3
+r7-E-SKN-026,2026-10-07,Kavumu,retaken,"AFC/M23 (per Bwiza, 7 Oct 2026)",m23,,rule3
+r7-E-SKN-026,2026-10-07,Numbi,retaken,"AFC/M23 (per Bwiza, 7 Oct 2026)",m23,,rule3
+r2-G-NKN-FRONT-001,2026-10-08,Kanyabayonga,holds,AFC/M23 administration (per source),m23,,rule3
+r1-SKS-2026Q4-011,2026-10-10,Kuwihene; Rugezi axis,contested,positions of the parties reportedly unchanged,contested,,override:held
+r1-SKS-2026Q4-005,2026-10-12,Ruhuha,retaken,AFC/M23 and Twirwaneho (per Twirwaneho spokesperson),m23,,rule3
+r1-SKS-2026Q4-006,2026-10-12,Bijombo highlands positions incl. Masango,withdrew,"government coalition, reportedly abandoned",vacated,kin,override:held
+r1-NKS-2026Q4-002,2026-10-13,Kiseguro,holds,FRN rebels (as Actualite.cd says),m23,,rule3
+r1-NKS-2026Q4-003,2026-10-13,Kiseguro,contested,not clearly established (Les Volcans News),contested,,rule1
+r1-SKC-2026H2-007,2026-10-16,Nzibira,holds,"the rebellion (AFC/M23, now FRN), per civil society",m23,,rule3
+r1-SKC-2026H2-007,2026-10-16,Kaniola,holds,"the rebellion (AFC/M23, now FRN), per civil society",m23,,rule3
+r1-UCD-NK-FARDC-WZ-011,2026-10-16,"Kibati (Luberike groupement, Walikale)",contested,FRN rebels (as Actualite.cd names them); FARDC and Wazalendo seek to retake,contested,,override:held
+r1-UV-2026Q4-003,2026-10-20,Kamanyola,holds,rebels as described by Actualite.cd,m23,,rule3
+r1-UV-2026Q4-037,2026-10-20,Katogota,holds,rebels as described by Actualite.cd,m23,,rule3
+r1-UV-2026Q4-026,2026-10-24,Rurambo,holds,FARDC backed by Wazalendo,kin,,rule3
+r2-G-NKW-MASISI-027,2026-10-24,Rushihe hill (above Katobo),captured,FARDC-wazalendo coalition,kin,,rule3
+r1-UV-2026Q4-016,2026-10-26,Mitimbili,retaken,FARDC (claimed by military sources),kin,,rule3
+r7-E-UV-019,2026-10-26,Kadezi hills (between Kaziba and Lubarika hills),captured,"FRN, per Umuseke citing social media and news sites",m23,,rule3
+r1-UV-2026Q4-017,2026-10-27,Kawizi,holds,FARDC (as stated by FARDC),kin,,rule3
+r1-UV-2026Q4-019,2026-10-27,Kawizi,captured,FRN (as claimed by Taarifa),m23,,rule3
+r1-UV-2026Q4-020,2026-10-27,Mangwa,captured,FRN (claimed by Taarifa),m23,,rule3
+r1-UV-2026Q4-024,2026-10-27,Mitimbili hill,holds,FRN (per Radio Maendeleo),m23,,rule3

@@ -1,0 +1,432 @@
+{
+  "aliases": {
+    "Ekenge Bomusa Efomi Sylvain": "sylvain-ekenge",
+    "Gen. Maj. Sylvain Ekenge": "sylvain-ekenge",
+    "Gen. Sylvain Ekenge": "sylvain-ekenge",
+    "General Sylvain Ekenge": "sylvain-ekenge",
+    "Maj Gen Sylvain Ekenge": "sylvain-ekenge",
+    "Maj Gen Sylvain Ekenge Bomusa": "sylvain-ekenge",
+    "Maj. Gen. Sylvain Ekenge": "sylvain-ekenge",
+    "Major General Ekenge Bomusa Efomi Sylvain": "sylvain-ekenge",
+    "Sylvain Ekeng Bomusa Efomi": "sylvain-ekenge",
+    "Sylvain Ekenge": "sylvain-ekenge",
+    "Capt. Sylvain Bijanu": "sylvain-bijanu",
+    "Sylvain Bijanu": "sylvain-bijanu",
+    "Didier Kabi": "didier-kabi",
+    "Me Didier Kabi": "didier-kabi",
+    "Me Luganywa-Bashizi Didier": "didier-kabi",
+    "Luganywa Bashizi Didier Kabi (relaying governor Jean Jacques Purusi)": "didier-kabi",
+    "Dieudonné Kamuleta (communiqué of 12 Sep 2025); Guillaume Ngefa": "dieudonne-kamuleta",
+    "Dunia Kashindi Fabien": "fabien-dunia-kashindi",
+    "Alexis Mwamba Dunia": "alexis-mwamba-dunia",
+    "Alphonse Ntumba Lwaba": "alphonse-ntumba-lwaba",
+    "Claude Misare": "claude-misare",
+    "Justin Bitakwira Bihona-Hayi": "justin-bitakwira-bihona-hayi",
+    "Placide Wenda": "placide-wenda",
+    "Colonel Michel Apoko Bangala": "michel-apoko-bangala",
+    "Colonel Mak Hazukay": "mak-hazukay",
+    "Mak Hazukay": "mak-hazukay",
+    "Mak Hazukay Mongba": "mak-hazukay",
+    "Guillaume Ndjike Kaiko": "guillaume-ndjike-kaiko",
+    "Guy Kabombo": "guy-kabombo",
+    "Guy Kabombo Muadiamvita": "guy-kabombo",
+    "Jacquemain Shabani": "jacquemain-shabani-lukoo-bihango",
+    "Shabani Lukoo Bihango": "jacquemain-shabani-lukoo-bihango",
+    "Jacques Kongolo": "jacques-kongolo",
+    "Jean Jacques Elakano": "jean-jacques-elakano",
+    "Jean Jacques Elekano": "jean-jacques-elakano",
+    "Jean-Jacques Elakano": "jean-jacques-elakano",
+    "Jean Jacques Purusi": "jean-jacques-purusi",
+    "Jean-Jacques Pulusi": "jean-jacques-purusi",
+    "Jean-Jacques Purusi": "jean-jacques-purusi",
+    "Jenerali Ychaligonza Jacques": "jacques-ychaligonza",
+    "Judith Suminwa": "judith-suminwa",
+    "Judith Suminwa Tuluka": "judith-suminwa",
+    "Jérémie Meya (printed 'Sous-lieutenant Jérémie Meya')": "jeremie-meya",
+    "Jérémie Meya (printed also as lieutenant Jérémie Meya Gbe)": "jeremie-meya",
+    "Meya Jérémie": "jeremie-meya",
+    "lieutenant de second classe Meya Gbé Jérémie": "jeremie-meya",
+    "Kifara Kapenda": "kifara-kapenda-kiki",
+    "Kifara Kapenda Kiki": "kifara-kapenda-kiki",
+    "Lieutenant Elongo Kyondwa Marc": "marc-elongo",
+    "Lieutenant Marc Elongo": "marc-elongo",
+    "lieutenant Marc Elongo": "marc-elongo",
+    "Lieutenant-Colonel Reagan Mbuyi Kalonji": "reagan-mbuyi-kalonji",
+    "Lt Reagan Mbuyi Kalonji": "reagan-mbuyi-kalonji",
+    "Luteni Reagan Mbuyi": "reagan-mbuyi-kalonji",
+    "Reagan Mbuyi (printed 'sous-lieutenant Reagan Mbuyi')": "reagan-mbuyi-kalonji",
+    "Reagan Mbuyi Kalonji": "reagan-mbuyi-kalonji",
+    "Reagan Mbuyi Kalonji (printed 'le lieutenant')": "reagan-mbuyi-kalonji",
+    "Mbuyi Reagan": "reagan-mbuyi-kalonji",
+    "Sous-lieutenant Mbuyi Reagan": "reagan-mbuyi-kalonji",
+    "Lt Gen Jules Mbanza Mwilambwe": "jules-mbanza-mwilambwe",
+    "Major Dieudonné Kasereka": "dieudonne-kasereka",
+    "Major Mavudisa Kamba": "nestor-mavudisa-kamba",
+    "Major Nestor Mavudisa": "nestor-mavudisa-kamba",
+    "Major Nestor Mavudisa Kamba Mayoyo": "nestor-mavudisa-kamba",
+    "Muyaya": "patrick-muyaya",
+    "Patrick Muyaya": "patrick-muyaya",
+    "Muhindo Nzangi": "muhindo-nzangi",
+    "Minister of State, Minister of Justice and Keeper of the Seals (not named in excerpt)": "unnamed-minister-of-justice",
+    "Samuel Mbemba": "samuel-mbemba",
+    "Samy Badibanga": "samy-badibanga-kalonji",
+    "Samy Badibanga Kalonji": "samy-badibanga-kalonji",
+    "Samy Kalonji Badibanga": "samy-badibanga-kalonji",
+    "Sammy Kalonji Badibanga": "samy-badibanga-kalonji",
+    "Roger Samuel Kamba ; Dr Aimé Alengo": "roger-samuel-kamba",
+    "Therese Kayikwamba Wagner": "therese-kayikwamba-wagner",
+    "Thérèse Kayikwamba Wagner": "therese-kayikwamba-wagner",
+    "Vital Kamerhe": "vital-kamerhe",
+    "Felix Tshisekedi": "felix-tshisekedi",
+    "Félix Tshisekedi": "felix-tshisekedi",
+    "Félix-Antoine Tshisekedi Tshilombo": "felix-tshisekedi",
+    "Floribert Anzuluni": "floribert-anzuluni",
+    "Marie-Thérèse Sombo": "marie-therese-sombo",
+    "Evariste Kakule Somo": "evariste-kakule-somo",
+    "Evariste Somo Kakule": "evariste-kakule-somo"
+  },
+  "people": {
+    "sylvain-ekenge": {
+      "name": "Sylvain Ekenge",
+      "title": "FARDC spokesperson",
+      "institution": "FARDC",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "sylvain-bijanu": {
+      "name": "Sylvain Bijanu",
+      "title": "Spokesperson, 33rd military region (FARDC)",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "didier-kabi": {
+      "name": "Didier Kabi",
+      "title": "Spokesperson, South Kivu provincial government",
+      "institution": "Provincial / local authority",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "dieudonne-kamuleta": {
+      "name": "Dieudonné Kamuleta",
+      "title": "President, Constitutional Court and Conseil supérieur de la magistrature",
+      "institution": "Judiciary",
+      "official": true,
+      "also": "Guillaume Ngefa",
+      "photo": null
+    },
+    "fabien-dunia-kashindi": {
+      "name": "Dunia Kashindi Fabien",
+      "title": "Commander, 33rd military region",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "alexis-mwamba-dunia": {
+      "name": "Alexis Mwamba Dunia",
+      "title": "Provincial coordinator, Réserve Armée de la Défense (South Kivu)",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "alphonse-ntumba-lwaba": {
+      "name": "Alphonse Ntumba Lwaba",
+      "title": "Coordinator, National Commission for Monitoring the Addis Ababa Agreement",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "claude-misare": {
+      "name": "Claude Misare",
+      "title": "National deputy for Uvira",
+      "institution": "Parliament",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "justin-bitakwira-bihona-hayi": {
+      "name": "Justin Bitakwira Bihona-Hayi",
+      "title": "National deputy for Uvira",
+      "institution": "Parliament",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "placide-wenda": {
+      "name": "Placide Wenda",
+      "title": "National deputy for Shabunda",
+      "institution": "Parliament",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "michel-apoko-bangala": {
+      "name": "Michel Apoko Bangala",
+      "title": "Commander, Sukola 2 South Kivu operational sector",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "mak-hazukay": {
+      "name": "Mak Hazukay",
+      "title": "Acting FARDC spokesperson",
+      "institution": "FARDC",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "guillaume-ndjike-kaiko": {
+      "name": "Guillaume Ndjike Kaiko",
+      "title": "Spokesperson, military governor of North Kivu",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "guy-kabombo": {
+      "name": "Guy Kabombo",
+      "title": "Deputy Prime Minister, Minister of National Defence",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "jacquemain-shabani-lukoo-bihango": {
+      "name": "Jacquemain Shabani Lukoo Bihango",
+      "title": "Vice-Prime Minister for Interior, Security, Decentralisation and Customary Affairs",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "jacques-kongolo": {
+      "name": "Jacques Kongolo",
+      "title": "Adviser to President Félix Tshisekedi",
+      "institution": "Presidency",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "jean-jacques-elakano": {
+      "name": "Jean-Jacques Elakano",
+      "title": "Vice-governor of South Kivu (also described as interim governor)",
+      "institution": "Provincial / local authority",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "jean-jacques-purusi": {
+      "name": "Jean-Jacques Purusi",
+      "title": "Governor of South Kivu",
+      "institution": "Provincial / local authority",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "jacques-ychaligonza": {
+      "name": "Jacques Ychaligonza",
+      "title": "Deputy army commander",
+      "institution": "FARDC",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "judith-suminwa": {
+      "name": "Judith Suminwa Tuluka",
+      "title": "Prime Minister",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": {
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Prime_Minister_of_DRC_Judith_Suminwa_Tuluka_%282025%29_%28cropped%29.jpg/330px-Prime_Minister_of_DRC_Judith_Suminwa_Tuluka_%282025%29_%28cropped%29.jpg",
+        "page": "https://en.wikipedia.org/wiki/Judith_Suminwa_Tuluka",
+        "license": "CC BY 4.0",
+        "artist": "首相官邸ホームページ",
+        "file": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_DRC_Judith_Suminwa_Tuluka_(2025)_(cropped).jpg"
+      }
+    },
+    "jeremie-meya": {
+      "name": "Jérémie Meya",
+      "title": "Spokesperson, Sukola 2 operational sector",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "kifara-kapenda-kiki": {
+      "name": "Kifara Kapenda Kiki",
+      "title": "Mayor of Uvira",
+      "institution": "Provincial / local authority",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "marc-elongo": {
+      "name": "Marc Elongo",
+      "title": "Spokesperson, Sukola 1 Grand-Nord operational sector",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "reagan-mbuyi-kalonji": {
+      "name": "Reagan Mbuyi Kalonji",
+      "title": "Spokesperson, Sukola 2 operations (South Kivu)",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "jules-mbanza-mwilambwe": {
+      "name": "Jules Mbanza Mwilambwe",
+      "title": "Chief of general staff, FARDC",
+      "institution": "FARDC",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "dieudonne-kasereka": {
+      "name": "Dieudonné Kasereka",
+      "title": "Spokesperson, 34th military region",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "nestor-mavudisa-kamba": {
+      "name": "Nestor Mavudisa Kamba",
+      "title": "Spokesperson, 3rd defence zone",
+      "institution": "FARDC",
+      "official": false,
+      "also": null,
+      "photo": null
+    },
+    "patrick-muyaya": {
+      "name": "Patrick Muyaya",
+      "title": "Minister of Communication and Media, government spokesperson",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": {
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Patrick_Muyaya_2023.jpg/330px-Patrick_Muyaya_2023.jpg",
+        "page": "https://en.wikipedia.org/wiki/Patrick_Muyaya_Katembwe",
+        "license": "CC0",
+        "artist": "Lenghu1",
+        "file": "https://commons.wikimedia.org/wiki/File:Patrick_Muyaya_2023.jpg"
+      }
+    },
+    "muhindo-nzangi": {
+      "name": "Muhindo Nzangi",
+      "title": "Minister of Rural Development",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": {
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Minister_of_Higher_and_University_Education_Muhingo_Nzangi_Butondo_Launch_of_project_on_the_introduction_of_courses_in_forensic_medicine_in_DRC_universities.jpg/330px-Minister_of_Higher_and_University_Education_Muhingo_Nzangi_Butondo_Launch_of_project_on_the_introduction_of_courses_in_forensic_medicine_in_DRC_universities.jpg",
+        "page": "https://en.wikipedia.org/wiki/Muhindo_Nzangi",
+        "license": "CC BY-SA 2.0",
+        "artist": "MONUSCO Photos",
+        "file": "https://commons.wikimedia.org/wiki/File:Minister_of_Higher_and_University_Education_Muhingo_Nzangi_Butondo_Launch_of_project_on_the_introduction_of_courses_in_forensic_medicine_in_DRC_universities.jpg"
+      }
+    },
+    "unnamed-minister-of-justice": {
+      "name": null,
+      "title": "Minister of State, Minister of Justice and Keeper of the Seals",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "samuel-mbemba": {
+      "name": "Samuel Mbemba",
+      "title": "Minister of Human Rights",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "samy-badibanga-kalonji": {
+      "name": "Samy Badibanga Kalonji",
+      "title": "Administrator, Fizi territory",
+      "institution": "Provincial / local authority",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "roger-samuel-kamba": {
+      "name": "Roger Samuel Kamba",
+      "title": "South Kivu provincial health division",
+      "institution": "Provincial / local authority",
+      "official": false,
+      "also": "Aimé Alengo",
+      "photo": null
+    },
+    "therese-kayikwamba-wagner": {
+      "name": "Thérèse Kayikwamba Wagner",
+      "title": "State Minister, Minister of Foreign Affairs, International Cooperation and Francophonie",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": {
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Th%C3%A9r%C3%A8se_Kayikwamba_Wagner_Democratic_Republic_of_the_Congo-Rwanda_Peace_Agreement_%28sq_cropped%29.jpg/330px-Th%C3%A9r%C3%A8se_Kayikwamba_Wagner_Democratic_Republic_of_the_Congo-Rwanda_Peace_Agreement_%28sq_cropped%29.jpg",
+        "page": "https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Kayikwamba_Wagner",
+        "license": "Public domain",
+        "artist": "U.S. Department of State",
+        "file": "https://commons.wikimedia.org/wiki/File:Th%C3%A9r%C3%A8se_Kayikwamba_Wagner_Democratic_Republic_of_the_Congo-Rwanda_Peace_Agreement_(sq_cropped).jpg"
+      }
+    },
+    "vital-kamerhe": {
+      "name": "Vital Kamerhe",
+      "title": "President of the National Assembly",
+      "institution": "Parliament",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "felix-tshisekedi": {
+      "name": "Félix Tshisekedi",
+      "title": "President of the Republic",
+      "institution": "Presidency",
+      "official": true,
+      "also": null,
+      "photo": {
+        "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Felix_Tshisekedi%2C_President_of_the_Democratic_Republic_of_the_Congo_%2855078564106%29_%28cropped%29.jpg/330px-Felix_Tshisekedi%2C_President_of_the_Democratic_Republic_of_the_Congo_%2855078564106%29_%28cropped%29.jpg",
+        "page": "https://en.wikipedia.org/wiki/F%C3%A9lix_Tshisekedi",
+        "license": "Public domain",
+        "artist": "U.S. Department of State",
+        "file": "https://commons.wikimedia.org/wiki/File:Felix_Tshisekedi,_President_of_the_Democratic_Republic_of_the_Congo_(55078564106)_(cropped).jpg"
+      }
+    },
+    "floribert-anzuluni": {
+      "name": "Floribert Anzuluni",
+      "title": "Minister of Regional Integration",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "marie-therese-sombo": {
+      "name": "Marie-Thérèse Sombo",
+      "title": "Minister of Higher and University Education",
+      "institution": "National government",
+      "official": true,
+      "also": null,
+      "photo": null
+    },
+    "evariste-kakule-somo": {
+      "name": "Évariste Kakule Somo",
+      "title": "Military governor of North Kivu",
+      "institution": "Provincial / local authority",
+      "official": true,
+      "also": null,
+      "photo": null
+    }
+  }
+}

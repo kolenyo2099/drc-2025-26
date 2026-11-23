@@ -1,0 +1,23 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "createdAt": "2026-11-06T13:30:12.271Z",
+        "reason": "Claude design decision: Inter chosen in the original design brief for tabular dates and dense UI legibility; user reviewed the look across several rounds without objecting"
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-11-06T13:30:12.292Z",
+        "reason": "Claude design decision: warm paper background chosen deliberately in the design brief as an editorial map base that keeps rust/blue control colours readable; not user-confirmed"
+      }
+    ]
+  }
+}
