@@ -10,7 +10,8 @@ strand: which of the page's three threads a record belongs to, read from its tit
 tags:   finer detail shown in the record's panel (children, men and boys, detention, slavery, forced pregnancy).
 terr:   for records with no map point, the territories their core claims name (at most three), so that the record
         can sit at the centre of its territory and not only in the province count.
-stm:    statements by any party whose topic is sexual violence, shaped like data.js statements.
+stm:    statements by any party whose topic is sexual violence or health care, shaped like data.js statements;
+        a statement dated only to a month sits on the first day of that month and says so.
 Every rule match is written to srv_review.csv with the words that triggered it, to be checked by hand."""
 import csv, json, os, re
 from care import KIVU_TERR, HERE, fold, centre, load
@@ -78,11 +79,12 @@ def main():
     al = json.load(open(os.path.join(HERE, 'people.json'), encoding='utf-8'))['aliases']
     stm = []
     for s in d['statements_all']:
-        m = re.match(r'\d{4}-\d\d-\d\d', s['date'] or '')
-        if 'Sexual violence' not in (s['topics'] or []) or not m:   # a statement with no day cannot sit on a dated feed
+        m = re.match(r'\d{4}-\d\d(-\d\d)?', s['date'] or '')
+        if not {'Sexual violence', 'Health care'} & set(s['topics'] or []) or not m:   # a year alone is too vague for a dated feed
             continue
+        dp = 'month' if not m[1] else 'day' if s['date_precision'] == 'day' else 'approx'   # a month sits on its first day
         o = src.get((rc.get(s['claim'], {}).get('sources') or [''])[0], {})
-        stm.append({'id': s['claim'], 'd': m[0], 'dp': 'day' if s['date_precision'] == 'day' else 'approx', 'person': s['person'], 'role': s['role'],
+        stm.append({'id': s['claim'], 'd': m[0] if m[1] else m[0] + '-01', 'dp': dp, 'person': s['person'], 'role': s['role'],
                     'party': s['party'].replace('Kinshasa (DRC government and FARDC)', 'DRC government and FARDC'), 'pid': al.get(s['person']),
                     'sk': s['setting'], 'k': 'denial_or_counterclaim' if 'Denial or counterclaim' in s['stances'] else ', '.join(s['stances']).lower(),
                     'tr': '', 'pv': '', 'text': s['text'], 'g': s['grade'], 'src': o.get('outlet', ''), 'ev': s['events']})
