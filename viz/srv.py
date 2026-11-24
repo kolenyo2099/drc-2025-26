@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build srv.js and srv_review.csv for index.html (formerly srv.html), the map focused on sexual and reproductive violence. Stdlib only;
+"""Build srv.js and srv_review.csv for ../index.html (formerly srv.html), the map focused on sexual and reproductive violence. Stdlib only;
 every source file is only read.
 
 strand: which of the page's three threads a record belongs to, read from its title and core claims (never from
